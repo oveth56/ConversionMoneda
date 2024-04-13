@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <!-- Agrega más monedas según sea necesario -->
+    </string-array>
+    <string-array name="conversion_rates_array">
+        <item>1.0</item> <!-- Tasa de conversión de USD a USD -->
+        <item>0.84</item> <!-- Tasa de conversión de USD a EUR -->
+        <item>0.72</item> <!-- Tasa de conversión de USD a GBP -->
+        <!-- Agrega más tasas de conversión según sea necesario -->
+    </string-array>
+</resources>
